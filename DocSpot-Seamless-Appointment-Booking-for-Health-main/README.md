@@ -81,15 +81,15 @@ It showcases:
 
 Submitted By:
 
-- Anusha Veeramallu
-- Bekkam Devi
-- Bodda Gopalakrishna
-- Bommidi Yugendra Gopi
+- Katta Karthik
+- Veerla Hanumath Kumar
+- Vanabathina Saritha
+- Kocherla Venkata Hemanth Kumar
 
 
 Submitted Date:
-28-06-2025
+20-02-2026
 
 Course: Full Stack Development (MERN stack) 
-Institution: Aditya College Of Engineering and Technology
+Institution: Seshadri Rao Gudlavalleru Engineering College
 

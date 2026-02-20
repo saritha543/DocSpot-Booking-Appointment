@@ -9,10 +9,10 @@ DocSpot: Seamless Appointment Booking for Health
 ---
 
 👥 Team Members:
-- Anusha Veeramallu
-- Bekkam Devi
-- Bodda Gopalakrishna
-- Bommidi Yugendra Gopi
+- Katta Karthik
+- Veerla Hanumath Kumar
+- Vanabathina Saritha
+- Kocherla Venkata Hemanth Kumar
 
 
 ---
